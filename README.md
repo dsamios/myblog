@@ -1,2 +1,2 @@
 # myBlog
-play around with PHP
+playing around with PHP
